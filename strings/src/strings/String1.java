@@ -8,6 +8,7 @@ public class String1 {
 		String string2="mom";
 		String result = string1 + string2;
 	System.out.print(result);
+	//works
 		}
 
 }
